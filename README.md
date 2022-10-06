@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentinus Soichi Mizutani</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
 
-- My small project [Haminseven](https://github.com/ValentinusSoichi/Haminseven)
-
 - 🌱 I’m currently learning **About UI/UX Design**
 
 - 📫 How to reach me **valent.soichi77@gmail.com**
