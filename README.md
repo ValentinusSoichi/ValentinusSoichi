@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valentinus Soichi Mizutani</h1>
 <h3 align="center">A passionate UI/UX Designer</h3>
 
+- 🔭 I’m currently study on **Bina Nusantara University**
+
 - 🌱 I’m currently learning **About UI/UX Design**
+
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **valent.soichi77@gmail.com**
 
