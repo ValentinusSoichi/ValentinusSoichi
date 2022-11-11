@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **valent.soichi77@gmail.com**
 
-- My Previous project [FashionCall](https://www.figma.com/file/DqbffbPfVb1g6QWIu40bVR/Project-E-commerce?node-id=0%3A1&t=encmhcwaLu3Q8oYD-1)
+- My Previous UI/UX Design project [FashionCall](https://www.figma.com/file/DqbffbPfVb1g6QWIu40bVR/Project-E-commerce?node-id=0%3A1&t=encmhcwaLu3Q8oYD-1)
 
-- My Previous project [PixelLess](https://www.figma.com/file/YX21UffvvsGflIsUvkzhKR/SE-prototype?t=encmhcwaLu3Q8oYD-0)
+- My Previous UI/UX Design project [PixelLess](https://www.figma.com/file/YX21UffvvsGflIsUvkzhKR/SE-prototype?t=encmhcwaLu3Q8oYD-0)
 
-- My Previous project [Haminseven](https://github.com/ValentinusSoichi/Haminseven)
+- My Previous HTML CSS project [Haminseven](https://github.com/ValentinusSoichi/Haminseven)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
